@@ -43,7 +43,7 @@
    ```
 2. В открывшемся окне авторизации введите учетные данные GitHub.
 
-![GitHub Login](images/github-login.png)
+![GitHub Login](images/git-login.png)
 
 3. После успешного выполнения команды файлы появятся в репозитории.
 
