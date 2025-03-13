@@ -94,7 +94,7 @@ git checkout main
 
 ![GitHub Main](images/github-main.png)
 
-## Файлы из папки исчезнут, так как вы переключились на другую ветку.
+### Файлы из папки исчезнут, так как вы переключились на другую ветку.
 
 ![GitHub Folder](images/github-folder.png)
 
