@@ -61,20 +61,21 @@
 ```sh
 # Создание и переход в ветку
 git checkout -b "ssr_imMemory"
-
+```
 ![GitHub New](images/github-new.png)
 
 #Необходимо перенести файлы лабораторной работы в нашу папку 
 
 ![GitHub Add](images/github-add.png)
-
+```sh
 # Добавление файлов
 git add .
 git commit -m "lab1 first commit"
-
+```
 ![GitHub Labcommit](images/github-labcommit.png)
 
 # Отправка изменений. Изначально достаточно написать просто git push и терминал вам предложит ввести полную команду. В нашем случае она будет:
+```sh
 git push --set-upstream origin ssr_imMemory
 ```
 
@@ -93,7 +94,7 @@ git checkout main
 
 ![GitHub Main](images/github-main.png)
 
-Файлы из папки исчезнут, так как вы переключились на другую ветку.
+## Файлы из папки исчезнут, так как вы переключились на другую ветку.
 
 ![GitHub Folder](images/github-folder.png)
 
