@@ -72,7 +72,7 @@ git checkout -b "ssr_imMemory"
 git add .
 git commit -m "lab1 first commit"
 ```
-![GitHub Labcommit](images/github-labcommit.png)
+![GitHub Labcommit](images/git-labcommit.png)
 
 # Отправка изменений. Изначально достаточно написать просто git push и терминал вам предложит ввести полную команду. В нашем случае она будет:
 ```sh
